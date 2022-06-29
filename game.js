@@ -103,10 +103,12 @@ exports.start = () => {
   };
 
   return (result = {
+    "final_result":{
     "player 1": player1.win,
     "player 2": player2.win,
     "player 3": player3.win,
-    "player 4": player4.win,
-    op: op2,
+    "player 4": player4.win
+  },
+    allPlayerStatisTik: op2,
   });
 };
