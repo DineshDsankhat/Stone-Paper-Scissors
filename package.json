@@ -1,0 +1,14 @@
+{
+  "name": "stone-paper-scissors",
+  "version": "1.0.0",
+  "description": "Create a rock-paper-scissors API using Nodejs. The specifics of the application are given below",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinesh Sankhat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
